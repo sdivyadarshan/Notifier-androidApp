@@ -1,0 +1,7 @@
+{
+  "name": "Notifier",
+  "description": "Centralized notification control layer for Instagram with granular category filtering and notification inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

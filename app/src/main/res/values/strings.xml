@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifier</string>
+    <string name="notification_listener_service_name">Instagram Notification Controller</string>
+    <string name="notification_listener_service_desc">Inspects and filters Instagram notifications according to your preferences.</string>
+    <string name="channel_test_name">Instagram Simulation Channel</string>
+    <string name="channel_test_desc">Used for testing Notifier classification and suppression</string>
+</resources>
